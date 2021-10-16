@@ -1,0 +1,19 @@
+h2{
+    font-family:cursive;
+    background-color:palevioletred;
+}
+
+table{
+    
+    font-family:cursive;
+    border-collapse: collapse;
+    background-color:black;
+    color:hotpink;
+}
+
+th{
+    
+    font-weight:bolder;
+    background-color:#040009;
+    color:hotpink;    
+}
