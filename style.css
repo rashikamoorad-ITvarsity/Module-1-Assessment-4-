@@ -1,8 +1,11 @@
 h2{
     font-family:cursive;
-    font-style:italic;
-    font-weight:bolder;
-    background-color:palevioletred;
+    font-style:normal;
+    font-weight: bolder ; 
+    background-color:black;
+    text-align: center;
+    color:red;
+    
 }
 
 table{
