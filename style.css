@@ -1,10 +1,12 @@
 h2{
     font-family:cursive;
     font-style:normal;
-    font-weight: bolder ; 
+    font-weight: 900 ; 
     background-color:black;
     text-align: center;
     color:red;
+    
+
 }
 
 table{
@@ -23,6 +25,6 @@ th{
 }
 
 #title a{
-   hello <span style="position:relative;top:-5px" there</span>
+    border:2px dashed #1C6EA4;
 
 }
