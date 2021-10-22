@@ -2,7 +2,7 @@ h2{
     font-family:cursive;
     font-style:normal;
     font-weight: bolder; 
-    background-color:black;
+    
     text-align: center;
     color:red;
     
@@ -22,9 +22,4 @@ th{
     font-weight:bolder;
     background-color:#040009;
     color:hotpink;    
-}
-
-#title a{
-    
-
 }
