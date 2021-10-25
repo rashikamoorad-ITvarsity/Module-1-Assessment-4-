@@ -1,25 +1,29 @@
 h2{
-    font-family:cursive;
-    font-style:normal;
+
+    font-family: cursive;
     font-weight: bolder; 
-    
     text-align: center;
-    color:red;
+    color:steelblue;
+    background-color:black;
+    
+    
     
 
 }
 
 table{
-    
-    font-family:cursive;
+    font-size: 15px;
+    text-align: center;
+    font-family: cursive;
     border-collapse: collapse;
     background-color:black;
-    color:hotpink;
+    color:steelblue;
 }
 
 th{
-    
+    text-align: center;
+    font-family: cursive;
     font-weight:bolder;
-    background-color:#040009;
-    color:hotpink;    
+    background-color:steelblue;
+    color:black; 
 }
