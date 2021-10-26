@@ -1,6 +1,6 @@
 h2{
 
-    font-family: cursive;
+    font-family:cursive;
     font-weight: bolder; 
     text-align: center;
     color:steelblue;
@@ -14,7 +14,7 @@ h2{
 table{
     font-size: 15px;
     text-align: center;
-    font-family: cursive;
+    font-family:cursive;
     border-collapse: collapse;
     background-color:black;
     color:steelblue;
@@ -22,8 +22,18 @@ table{
 
 th{
     text-align: center;
-    font-family: cursive;
     font-weight:bolder;
     background-color:steelblue;
-    color:black; 
+    color:black;
+    font-family:cursive;
 }
+table,td{
+    border:1px solid;
+    border-color: steelblue;
+}
+th{
+    border:1px solid;
+    border-color: black;
+}
+
+
