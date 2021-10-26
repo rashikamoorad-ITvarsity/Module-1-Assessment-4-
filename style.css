@@ -1,10 +1,16 @@
-h2
+p
    {
     font-family:cursive;
     font-weight: bolder; 
-    text-align: center;
+    text-align:center;
     color:steelblue;
-    background-color:black;  
+    background-color:black; 
+       border:5px solid black;
+         border-color:steelblue;
+         font-size: 30px; 
+         width:1310px;
+         height: 170px;             
+
    }
 
 table
@@ -28,13 +34,13 @@ th
 
 table,td
    {
-    border:2px solid;
+    border:3px solid;
     border-color: steelblue;
    }
 
 th
    {
-    border:2px solid;
+    border:3px solid;
     border-color: black;
    }
 
