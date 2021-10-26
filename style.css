@@ -1,39 +1,41 @@
-h2{
-
+h2
+   {
     font-family:cursive;
     font-weight: bolder; 
     text-align: center;
     color:steelblue;
-    background-color:black;
-    
-    
-    
+    background-color:black;  
+   }
 
-}
-
-table{
+table
+   {
     font-size: 15px;
     text-align: center;
     font-family:cursive;
     border-collapse: collapse;
     background-color:black;
     color:steelblue;
-}
+   }
 
-th{
+th 
+   {
     text-align: center;
     font-weight:bolder;
     background-color:steelblue;
     color:black;
-    font-family:cursive;
-}
-table,td{
-    border:1px solid;
+    font-family:cursive;   
+   }
+
+table,td
+   {
+    border:2px solid;
     border-color: steelblue;
-}
-th{
-    border:1px solid;
+   }
+
+th
+   {
+    border:2px solid;
     border-color: black;
-}
+   }
 
 
