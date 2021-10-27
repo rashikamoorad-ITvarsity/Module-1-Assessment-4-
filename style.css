@@ -5,14 +5,13 @@ p
     text-align:center;
     color:steelblue;
     background-color:black; 
-       border:5px solid black;
-         border-color:steelblue;
-         font-size: 30px; 
-         width:1310px;
-         height: 170px; 
-       width:100%
-
-   }
+    border:5px solid black;
+    border-color:steelblue;
+    font-size: 30px; 
+    width:1300px;
+    height: 170px; 
+    width:100%;
+  }
 
 table
    {
@@ -22,6 +21,7 @@ table
     border-collapse: collapse;
     background-color:black;
     color:steelblue;
+       
    }
 
 th 
